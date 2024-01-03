@@ -441,16 +441,16 @@
 
 // ----------------------------------------------------------------
 
-let name= ' Hossein '
-lastName = 'Cholaki '
+// let name= ' Hossein '
+// lastName = 'Cholaki '
 // let fullName = ` mohammad ${name}${lastName}`
 // name = 'javad'
 // console.log(fullName)
 
 // console.log(name + ' '+lastName)
 
-let fullName= name + lastName
-console.log(fullName)
+// let fullName= name + lastName
+// console.log(fullName)
 
 // console.log(fullName.length)
 // console.log(fullName[0])
@@ -470,38 +470,46 @@ console.log(fullName)
 // let year = '2000'
 // console.log(year + 1)
 
-console.log(fullName)
-console.log(fullName.length)
-console.log(fullName.trim().length)
-console.log(fullName.toUpperCase())
-console.log(fullName.toLowerCase())
-console.log(fullName.indexOf('i'))
-console.log(fullName.slice(5))
-console.log(fullName.replace('o','j'))
+// console.log(fullName)
+// console.log(fullName.length)
+// console.log(fullName.trim().length)
+// console.log(fullName.toUpperCase())
+// console.log(fullName.toLowerCase())
+// console.log(fullName.indexOf('i'))
+// console.log(fullName.slice(5))
+// console.log(fullName.replace('o','j'))
 
-const paragraph= "you should do your best "
-console.log('hossein'.slice(3))
+// const paragraph= "you should do your best "
+// console.log('hossein'.slice(3))
 
-let viechel = 'skateboard'
-console.log(viechel.slice(5).replace('o','e'))
-console.log(fullName)
-console.log(fullName.slice(2,11))
-console.log(fullName.slice(3, -2))
+// let viechel = 'skateboard'
+// console.log(viechel.slice(5).replace('o','e'))
+// console.log(fullName)
+// console.log(fullName.slice(2,11))
+// console.log(fullName.slice(3, -2))
 
-let esmha= 'hossein mohammad javad ari ari ari aryan'
-console.log(esmha.replace('ari', 'hossein'))
-console.log(esmha.replaceAll('ari', 'hossein'))
+// let esmha= 'hossein mohammad javad ari ari ari aryan'
+// console.log(esmha.replace('ari', 'hossein'))
+// console.log(esmha.replaceAll('ari', 'hossein'))
 
-console.log('hossein '.repeat(2))
+// console.log('hossein '.repeat(2))
 
-// console.log(object)
+// // console.log(object)
 
-console.log(Math.random())
-console.log(Math.PI)
-console.log(Math.round(4.6))
-console.log(Math.round(4.5))
-console.log(Math.round(4.4))
-console.log(Math.abs(-5))   
-console.log(Math.pow(2,3))
-console.log(Math.floor(2.7))
-console.log(Math.ceil(2.1))
+// console.log(Math.random())
+// console.log(Math.PI)
+// console.log(Math.round(4.6))
+// console.log(Math.round(4.5))
+// console.log(Math.round(4.4))
+// console.log(Math.abs(-5))   
+// console.log(Math.pow(2,3))
+// console.log(Math.floor(2.7))
+// console.log(Math.ceil(2.1))
+
+// let dice1= Math.round(Math.random()*6)
+// let dice2= Math.round(Math.random()*6)
+// console.log(dice1)
+// console.log(dice2)
+// let roll= `You rolled a ${dice1} and a ${dice2}. They sum to ${dice1 + dice2}`
+// console.log(roll)
+
