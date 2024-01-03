@@ -395,3 +395,113 @@
 
 // ---------------------------------------------------------------
 
+// let age = 12
+// console.log( age)
+// age + 12
+// console.log( age )
+// age += 12
+// console.log(age)
+
+// const agw = 23
+// console.log( agw)
+// agw +=12
+// console.log(agw)
+// console.log(age)
+
+
+// age++
+// console.log(age)
+
+// let score = 5
+// console.log(score)
+// score + 4
+// console.log(score)
+// score+=4
+// console.log(score)
+
+// let wbp = 100
+// wbp /=2
+// wbp +=10
+// console.log(wbp)
+
+// let isHappy = true
+// console.log(isHappy)
+// let isSad = false
+// console.log(isSad)
+
+
+// let age ='23'
+// console.log(age)
+// age + 3
+// console.log(age)
+// age = '32'
+// console.log(age + 2)
+
+// console.log(typeof(age))
+
+// ----------------------------------------------------------------
+
+let name= ' Hossein '
+lastName = 'Cholaki '
+// let fullName = ` mohammad ${name}${lastName}`
+// name = 'javad'
+// console.log(fullName)
+
+// console.log(name + ' '+lastName)
+
+let fullName= name + lastName
+console.log(fullName)
+
+// console.log(fullName.length)
+// console.log(fullName[0])
+// console.log(fullName[1])
+// console.log(fullName.trim().length)
+// console.log(fullName.length)
+// console.log(fullName+123)
+
+// const animal = 'Magnificent frigatebird'
+// console.log(animal[7])
+
+// const city = 'Swansea'
+// const country = 'Wales'
+// const comb = city + country
+// console.log(comb)
+
+// let year = '2000'
+// console.log(year + 1)
+
+console.log(fullName)
+console.log(fullName.length)
+console.log(fullName.trim().length)
+console.log(fullName.toUpperCase())
+console.log(fullName.toLowerCase())
+console.log(fullName.indexOf('i'))
+console.log(fullName.slice(5))
+console.log(fullName.replace('o','j'))
+
+const paragraph= "you should do your best "
+console.log('hossein'.slice(3))
+
+let viechel = 'skateboard'
+console.log(viechel.slice(5).replace('o','e'))
+console.log(fullName)
+console.log(fullName.slice(2,11))
+console.log(fullName.slice(3, -2))
+
+let esmha= 'hossein mohammad javad ari ari ari aryan'
+console.log(esmha.replace('ari', 'hossein'))
+console.log(esmha.replaceAll('ari', 'hossein'))
+
+console.log('hossein '.repeat(2))
+
+// console.log(object)
+
+console.log(Math.random())
+console.log(Math.PI)
+console.log(Math.round(4.6))
+console.log(Math.round(4.5))
+console.log(Math.round(4.4))
+console.log(Math.abs(-5))   
+console.log(Math.pow(2,3))
+console.log(Math.floor(2.7))
+console.log(Math.ceil(2.1))
