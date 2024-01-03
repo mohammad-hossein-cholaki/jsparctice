@@ -513,3 +513,9 @@
 // let roll= `You rolled a ${dice1} and a ${dice2}. They sum to ${dice1 + dice2}`
 // console.log(roll)
 
+console.log(5<2)
+console.log(10 == '10')
+console.log(10 === '10')
+console.log(3>2)
+console.log(9 == '9')
+console.log(-5 >= -6)
