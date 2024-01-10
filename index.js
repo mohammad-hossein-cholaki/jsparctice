@@ -522,23 +522,39 @@
 
 // ------------------------------------------------------------------
 
-let tester= 'boOok '
-console.log( typeof(tester))
-// let testeer= Math.ceil
-console.log(tester.length)
-console.log(tester)
-console.log(tester.toUpperCase())
-console.log(tester.toLowerCase())
-console.log(tester.trim().length)
-console.log(tester.indexOf('O'))
-console.log(tester.indexOf('o'))
-console.log(tester.slice(2))
-console.log(tester.slice(2,-2))
-console.log(tester.replace('o','a'))
-console.log(tester.replaceAll('o','a'))
-console.log(tester.repeat(5))
-console.log(tester[3])
-console.log(tester[1])
-console.log(typeof(parseInt('4')))
+// let tester= 'boOok '
+// console.log( typeof(tester))
+// // let testeer= Math.ceil
+// console.log(tester.length)
+// console.log(tester)
+// console.log(tester.toUpperCase())
+// console.log(tester.toLowerCase())
+// console.log(tester.trim().length)
+// console.log(tester.indexOf('O'))
+// console.log(tester.indexOf('o'))
+// console.log(tester.slice(2))
+// console.log(tester.slice(2,-2))
+// console.log(tester.replace('o','a'))
+// console.log(tester.replaceAll('o','a'))
+// console.log(tester.repeat(5))
+// console.log(tester[3])
+// console.log(tester[1])
+// console.log(typeof(parseInt('4')))
 
 // -----------------------------------------------------------------
+
+let tester= 'boOok '
+
+
+const paraf= 'I am hossein cholaki'
+
+console.log(paraf.indexOf('hossein'))
+console.log(tester.charAt(1))
+console.log('hossein'.charAt(1))
+console.log(paraf.indexOf('hossein'))
+let newParaf= paraf.concat(' ').concat('salam')
+console.log(newParaf)
+console.log(paraf.concat(' salam'))
+console.log(paraf)
+console.log('skateboard'.slice(5).replace('o','e'))
+
