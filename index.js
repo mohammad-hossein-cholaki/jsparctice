@@ -513,9 +513,32 @@
 // let roll= `You rolled a ${dice1} and a ${dice2}. They sum to ${dice1 + dice2}`
 // console.log(roll)
 
-console.log(5<2)
-console.log(10 == '10')
-console.log(10 === '10')
-console.log(3>2)
-console.log(9 == '9')
-console.log(-5 >= -6)
+// console.log(5<2)
+// console.log(10 == '10')
+// console.log(10 === '10')
+// console.log(3>2)
+// console.log(9 == '9')
+// console.log(-5 >= -6)
+
+// ------------------------------------------------------------------
+
+let tester= 'boOok '
+console.log( typeof(tester))
+// let testeer= Math.ceil
+console.log(tester.length)
+console.log(tester)
+console.log(tester.toUpperCase())
+console.log(tester.toLowerCase())
+console.log(tester.trim().length)
+console.log(tester.indexOf('O'))
+console.log(tester.indexOf('o'))
+console.log(tester.slice(2))
+console.log(tester.slice(2,-2))
+console.log(tester.replace('o','a'))
+console.log(tester.replaceAll('o','a'))
+console.log(tester.repeat(5))
+console.log(tester[3])
+console.log(tester[1])
+console.log(typeof(parseInt('4')))
+
+// -----------------------------------------------------------------
