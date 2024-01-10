@@ -543,18 +543,56 @@
 
 // -----------------------------------------------------------------
 
-let tester= 'boOok '
+// let tester= 'boOok '
 
 
-const paraf= 'I am hossein cholaki'
+// const paraf= 'I am hossein cholaki'
 
-console.log(paraf.indexOf('hossein'))
-console.log(tester.charAt(1))
-console.log('hossein'.charAt(1))
-console.log(paraf.indexOf('hossein'))
-let newParaf= paraf.concat(' ').concat('salam')
-console.log(newParaf)
-console.log(paraf.concat(' salam'))
-console.log(paraf)
-console.log('skateboard'.slice(5).replace('o','e'))
+// console.log(paraf.indexOf('hossein'))
+// console.log(tester.charAt(1))
+// console.log('hossein'.charAt(1))
+// console.log(paraf.indexOf('hossein'))
+// let newParaf= paraf.concat(' ').concat('salam')
+// console.log(newParaf)
+// console.log(paraf.concat(' salam'))
+// console.log(paraf)
+// console.log('skateboard'.slice(5).replace('o','e'))
 
+// -----------------------------------------------------------------------
+
+// let dice1= Math.ceil(Math.random()*6)
+// let dice2= Math.ceil(Math.random()*6)
+
+
+// console.log(`dice1 = ${dice1}`)
+// console.log(`dice2 = ${dice2}`)
+// console.log(`roll: You rolled a ${dice1} and a ${dice2}.they sum to ${dice1 + dice2}.`)
+
+// console.log('dice 1 : ' , dice1)
+// console.log('roll: You rolled a ', dice1 , ' and a ', dice2, ' . they sum to ' , dice1 + dice2)
+
+// ------------------------------------------------------------------------
+
+// console.log(3>=2)
+// console.log(10 >345)
+// console.log(10 <345)
+// console.log(10 == 2*5)
+// console.log(10 !== 2*5)
+// console.log(10 === '10')
+// console.log(10 !== '10')
+// console.log(10 == '10')
+// console.log(10 != '10')
+// console.log(9 ==9)
+
+// alert('shit')
+
+// prompt('hello world')
+
+// let name= prompt("what's your name?")
+// console.log(name)
+// alert(`welcome ${name}`)
+
+// let number='123lksdfj'
+// console.log(parseInt(number))
+
+// --------------------------------------------------------------------
