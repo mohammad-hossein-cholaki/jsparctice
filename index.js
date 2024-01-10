@@ -596,3 +596,49 @@
 // console.log(parseInt(number))
 
 // --------------------------------------------------------------------
+
+// if statement 
+
+// let age= 3;
+// if (age ===3){
+//     console.log('you are a chicken')
+// }else{
+//     console.log('you are not chicken any more')
+// }
+
+let number= 11;
+if(number % 2 == 0){
+    console.log('your number is even')
+}else{
+    console.log('your number is odd')
+}
+
+
+// let oldPass= 'hossein123'
+// let pass = prompt('please enter your pass:')
+// if(oldPass== pass){
+//     alert('hello hossein')
+// }if(oldPass !== pass){
+//     alert('your pass is wrong')
+// }
+
+// let age= parseInt(prompt('please enter your age:'))
+// if(age<=50){
+//     alert('you are still young')
+// }if(age>50){
+//     alert('you are old')
+// }
+
+// ---------------------------------------------------------------
+
+// let age =  parseInt(prompt('please enter your age:'))
+// if(age>65){
+//     alert('enterance is free for you')
+// }else if(age>12){
+//     alert('you should pay 12$')
+// }else if (age>5){
+//     alert('you should pay 5$')
+// }else(
+//     alert('you can enter for free')
+// )
+
