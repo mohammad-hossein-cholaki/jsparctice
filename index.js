@@ -654,19 +654,58 @@
 //     alert('drive carefoully')
 // }else{
 //     alert('you had enter wrong color')
+// 
+
+
+
+
+
+// let pass= prompt('please enter your password')
+
+// console.log(pass)
+// console.log(pass.length)
+
+// if(pass.length < 6){
+//     alert('your password is too short')
+// }else if(pass.indexOf(' ') !== -1){
+//     alert("don't use space")
+// }else{
+//     alert("you'r password is valid")
 // }
 
-let pass= prompt('please enter your password')
-
-console.log(pass)
-console.log(pass.length)
-
-if(pass.length < 6){
-    alert('your password is too short')
-}else if(pass.indexOf(' ') !== -1){
-    alert("don't use space")
-}else{
-    alert("you'r password is valid")
-}
-
 // --------------------------------------------------------------------
+
+// let pass = 'hossein234'
+
+// let password = prompt('please enter your password')
+
+// if(pass== password){
+//     alert('welcome hossein ')
+// }else{
+//     alert('wrong password')
+// }
+
+
+// let age=parseInt(prompt('pleade enter your age'))
+
+// if(age >60){
+//     alert('you are old')
+// }else if(age > 30){
+//     alert('you are getting old hurry')
+// }else if(age > 15){
+//     alert('you are still young')
+// }else if(age>3){
+//     alert('you are a teenager')
+// }else if(age<3){
+//     alert('what a cute kid')
+// }
+
+// let number= parseInt(prompt('please enter your number:'))
+
+// if(number % 2 ===0){
+//     alert('your number is even')
+// }else if(number % 2 !== 0){
+//     alert('your number is odd')
+// }
+
+
