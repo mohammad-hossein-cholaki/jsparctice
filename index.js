@@ -606,12 +606,12 @@
 //     console.log('you are not chicken any more')
 // }
 
-let number= 11;
-if(number % 2 == 0){
-    console.log('your number is even')
-}else{
-    console.log('your number is odd')
-}
+// let number= 11;
+// if(number % 2 == 0){
+//     console.log('your number is even')
+// }else{
+//     console.log('your number is odd')
+// }
 
 
 // let oldPass= 'hossein123'
@@ -642,3 +642,31 @@ if(number % 2 == 0){
 //     alert('you can enter for free')
 // )
 
+// ----------------------------------------------------------------
+
+// let traficLight= prompt('enter a color between: red , green, yellow, or any other color:')
+
+// if(traficLight=='green'){
+//     alert("let's go")
+// }else if(traficLight=='red'){
+//     alert('stop right there')
+// }else if(traficLight== 'yellow'){
+//     alert('drive carefoully')
+// }else{
+//     alert('you had enter wrong color')
+// }
+
+let pass= prompt('please enter your password')
+
+console.log(pass)
+console.log(pass.length)
+
+if(pass.length < 6){
+    alert('your password is too short')
+}else if(pass.indexOf(' ') !== -1){
+    alert("don't use space")
+}else{
+    alert("you'r password is valid")
+}
+
+// --------------------------------------------------------------------
