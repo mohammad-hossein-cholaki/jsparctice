@@ -786,12 +786,71 @@
 
 
 
-let age= parseInt(prompt('please enter your age:')) 
+// let age= parseInt(prompt('please enter your age:')) 
 
-if(age <= 5 || age >= 65){
-    alert('you can enter for free')
-}else if(age <= 30 || age >= 40){
-    alert('you should pay 20$')
-}else{
-    alert('pol zor vade')
-}
+// if(age <= 5 || age >= 65){
+//     alert('you can enter for free')
+// }else if(age <= 30 || age >= 40){
+//     alert('you should pay 20$')
+// }else{
+//     alert('pol zor vade')
+// }
+
+
+// let num = 9
+
+// switch (num) {
+    //     case 1:
+    //         console.log('saturday')
+    //         break;
+    //     case 2:
+    //         console.log('sunday')
+    //         break;
+    //     case 3:
+    //         console.log('monday');
+    //         break;
+    //     case 4:
+    //         console.log('thuesday');
+    //         break
+    //     case 5:
+    //         console.log('wendsday');
+    //         break;
+    //     case 6:
+    //         console.log('thuresday');
+    //         break;
+    //     case 7:
+    //         console.log('friday')
+    //     default:
+    //         console.log('some thing went wrong')
+    //         break;
+    // }
+    
+//     let num = 1
+    
+//     switch (num) {
+//         case 1:
+//         console.log('saturday')
+//         // break;
+//     case 2:
+//         console.log('sunday')
+//         break;
+//     case 3:
+//         console.log('monday');
+//         break;
+//     case 4:
+//         console.log('thuesday');
+//         break
+//     case 5:
+//         console.log('wendsday');
+//         break;
+//     case 6:
+//         console.log('thuresday');
+//         break;
+//     case 7:
+//         console.log('friday')
+//     default:
+//         console.log('some thing went wrong')
+//         break;
+// }
+
+
