@@ -709,3 +709,30 @@
 // }
 
 
+// let age = parseInt(prompt('please enter your age:'))
+
+// if(age >= 65){
+//     alert('you can enter for free')
+// }else if(age >= 12 ){
+//     alert('you should pay 20$ for enterance fee')
+// }else if (age >= 5){
+//     alert('you should pay 5$ for your child enterance fee')
+// }else{
+//     alert('your child can enter for free')
+// }
+
+
+// let color = prompt('please enter a color between green, yellow, red, purple')
+
+// if(color == 'green'){
+//     alert('the color is green so you can go')
+// }else if (color == 'yellow'){
+//     alert('drive carefully')
+// }else if (color == 'red'){
+//     alert(' the color is red , so you should stoop')
+// }else if (color == 'purple'){
+//     alert('I actually donot know what the meaning of color purple')
+// }else{
+//     alert('pay attention your coloor is wrong')
+// }
+
