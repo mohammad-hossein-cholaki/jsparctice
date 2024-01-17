@@ -736,3 +736,62 @@
 //     alert('pay attention your coloor is wrong')
 // }
 
+// ----------------------------------------------------------------------
+
+// let pass = prompt('please enter your favorite password:')
+
+// if(pass.length <=6){
+//     alert('your password length should be more then 6 character')
+// }else if(pass.indexOf(' ') != -1){
+//     alert('your password should not include space')
+// }else{
+//     alert('your password is vlid')
+// }
+
+
+// if(pass.length>6){
+//     if(pass.indexOf(' ') === -1){
+//         alert('welcome')
+//     }else{
+//         alert('your pass should not include space')
+//     }
+// }else{
+//     alert('your  pass is to short.')
+// }
+
+
+// let st= undefined
+
+// if(st){
+//     console.log('true')
+// }else{
+//     console.log('false')
+// }
+
+// const whoAmI = "Pklsf7k"; //change this value to make the conditions below true
+
+// // leave this code alone! (please)
+// if (
+//   whoAmI[0] === "P" &&
+//   whoAmI.length > 5 &&
+//   //  your string must have 7 inside it
+//   whoAmI.indexOf("7") !== -1 &&
+//   // your string must not have any empty string
+//   whoAmI.indexOf(" ") === -1
+// ) {
+//   console.log("you got it!!!");
+// } else {
+//   console.log("it's not my name darling!!!");
+// }
+
+
+
+let age= parseInt(prompt('please enter your age:')) 
+
+if(age <= 5 || age >= 65){
+    alert('you can enter for free')
+}else if(age <= 30 || age >= 40){
+    alert('you should pay 20$')
+}else{
+    alert('pol zor vade')
+}
