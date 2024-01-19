@@ -854,3 +854,57 @@
 // }
 
 
+// let color = 'yellow'
+
+// switch(color){
+//     case "green":
+//         console.log('you can go')
+//         break;
+//     case 'red':
+//         console.log('you should stop')
+//         break;
+//     case 'yellow':
+//         console.log('drive carefuly')
+//         break;
+//     default:
+//         console.log('you entered wrong color')
+//         break;
+// }
+
+
+// let date = new Date()
+// console.log(date)
+// let month = date.getMonth();
+// console.log(month)
+// let time = date.getHours()
+// console.log(time)
+// switch (month) {
+//     case 0:
+//         console.log('sunday')
+//         break;
+//     case 1:
+//         console.log('monday')
+//         break;
+//     case 2:
+//         console.log('tuesday')
+//         break;
+//     case 3:
+//         console.log('wendsday')
+//         break;
+//     case 4:
+//         console.log('thursday')
+//         break;
+//     case 5:
+//         console.log('friday')
+//         break;
+//     case 6:
+//         console.log('saturday')
+//         break;
+//     default:
+//         console.log('error')
+//         break;
+// }
+
+
+// -----------------------------------------------------------
+
