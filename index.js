@@ -908,3 +908,91 @@
 
 // -----------------------------------------------------------
 
+console.log('lets go')
+
+let data = new Date()
+// let day = data.getDay()
+
+// console.log(data)
+// console.log(day)
+
+// switch(day){
+//     case 0:
+//         console.log('sunday')
+//         break;
+//     case 1:
+//         console.log('monday')
+//         break;
+//     case 2:
+//         console.log('thuesday')
+//         break;
+//     case 3:
+//         console.log('wensday')
+//         break;
+//     case 4:
+//         console.log('thursday')
+//         break;
+//     case 5:
+//         console.log('friday')
+//         break;
+//     case 6:
+//         console.log('saturday')
+//         break;
+// }
+
+// switch migoyad ma yek variable darim ke, in variable moomken ast maghadir motafaveti begirad. va har kodam az in maghadir motafavet yek case be hesab mi ayand. va ma be azaye har case yek halat khas ra daryaft mikonim
+
+
+// let date= new Date()
+
+// meghdar Date() chon zaman ra neshan midahad hamvare dar hal taghir ast. chera? chon bayad sanye va daghighe ra neshan dahad. va khob sanye modam dar hal avaz shodan ast. banabar in ma yek new estefade mikonim ta yek lahze az Date() ra baraye ma sabt konad va dar ghaleb yek variable gharar dahad ta ma betavanim ba an kar konim . sepas ba estefade az yek seri method ha ma mitovanim sanye, daghighe, saat, roz , mah , sal va etelat digar ra az tike zamani ke az Date() gerefteiem ra bedast avarim.
+
+// let month =data.getMonth()
+
+//  va baad ba estefade az switch estatement miayiem va sharayeti ke momken ast ijad shavad ra shabih sazi mikonim.
+// console.log(data)
+
+// console.log(month)
+
+// switch(month){
+//     case 0:
+//         console.log('mah zero spring?')
+//         break;
+//     case 1:
+//         console.log('mah one')
+//         break;
+//     case 2:
+//         console.log('mah two')
+//         break;
+//     case 3:
+//         console.log('mah three')
+//         break;
+//     case 4:
+//         console.log('mah four')
+//         break;
+//     case 5:
+//         console.log('mah five')
+//         break;
+//     case 6:
+//         console.log('mah six')
+//         break;
+//     case 7:
+//         console.log('mah seven')
+//         break;
+//     case 8:
+//         console.log('mah eight')
+//         break;
+//     case 9:
+//         console.log('mah nine')
+//         break;
+//     case 10:
+//         console.log('mah ten')
+//         break;
+//     case 11:
+//         console.log('mah eleven')
+//         break;
+
+// }
+
+// -------------------------------------------------------------------------
+
